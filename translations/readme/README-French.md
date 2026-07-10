@@ -57,7 +57,7 @@ $ pip install auto-py-to-exe
 Ensuite, pour le lancer, exécutez la commande ci-dessous dans un terminal :
 
 ```
-$ auto-py-to-exe
+auto-py-to-exe
 ```
 
 > Si vous avez installé plus d'une version de Python, utilisez `python -m auto_py_to_exe` au lieu de `auto-py-to-exe`.

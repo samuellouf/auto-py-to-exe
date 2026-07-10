@@ -51,7 +51,7 @@ _Pour que l'interface soit la même que celle dans les images, vous aurez besoin
 Vous pouvez installer ce projet avec PyPI:
 
 ```
-$ pip install auto-py-to-exe
+pip install auto-py-to-exe
 ```
 
 Ensuite, pour le lancer, exécutez la commande ci-dessous dans un terminal :

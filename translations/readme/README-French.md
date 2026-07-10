@@ -65,9 +65,9 @@ $ auto-py-to-exe
 #### Installer avec [GitHub](https://github.com/brentvollebregt/auto-py-to-exe)
 
 ```
-$ git clone https://github.com/brentvollebregt/auto-py-to-exe.git
-$ cd auto-py-to-exe
-$ python setup.py install
+git clone https://github.com/brentvollebregt/auto-py-to-exe.git
+cd auto-py-to-exe
+python setup.py install
 ```
 
 Ensuite, pour le lancer, exécutez la commande ci-dessous dans un terminal :

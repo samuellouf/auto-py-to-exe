@@ -73,7 +73,7 @@ $ python setup.py install
 Ensuite, pour le lancer, exécutez la commande ci-dessous dans un terminal :
 
 ```
-$ auto-py-to-exe
+auto-py-to-exe
 ```
 
 #### Lancer localement avec GitHub [Github](https://github.com/brentvollebregt/auto-py-to-exe) (sans installer)

@@ -147,9 +147,9 @@ Depuis la publication de [PyInstaller v4.0](https://github.com/pyinstaller/pyins
 Les tests sont dans le dossier [tests/](../../tests/) et se lancent en utilisant pytest:
 
 ```
-$ pip install pytest
-$ pip install -e .
-$ pytest
+pip install pytest
+pip install -e .
+pytest
 ```
 
 ## Captures d'écran

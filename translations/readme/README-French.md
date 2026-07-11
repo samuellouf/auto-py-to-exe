@@ -117,12 +117,12 @@ Cet export de configuration JSON n'enregistre pas le répertoire de sortie autom
 
 ## Exemples
 
-Le dossier [examples/](./examples/) montre comment écrire vos scripts et les empaqueter avec auto-py-to-exe.
+Le dossier [examples/](../../examples/) montre comment écrire vos scripts et les empaqueter avec auto-py-to-exe.
 
-- [Basic (console application)](./examples/1-basic/readme.md)
-- [No Console (as typically desired for GUI-based applications)](./examples/2-no-console/readme.md)
-- [Images and other non-.py files (static files to be included)](./examples/3-images-and-other-non-py-files/readme.md)
-- [Persistent data (like databases)](./examples/4-persistent-data/readme.md)
+- [Basic (console application)](../../examples/1-basic/readme.md)
+- [No Console (as typically desired for GUI-based applications)](../../examples/2-no-console/readme.md)
+- [Images and other non-.py files (static files to be included)](../../examples/3-images-and-other-non-py-files/readme.md)
+- [Persistent data (like databases)](../../examples/4-persistent-data/readme.md)
 
 ## Vidéo
 

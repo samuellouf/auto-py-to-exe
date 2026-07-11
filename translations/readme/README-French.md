@@ -130,7 +130,7 @@ Si vous avez besoin de quelque chose de visuel pour vous aider à démarrer, [j'
 
 ## Contribuer
 
-Jetez un coup d'œuil à [CONTRIBUTING.md](../contributing/CONTRIBUTING-French.md) pour voir les lignes directrices pour contribuer à ce projet. Ce fichier détaile ce que vous devez faire si vous avez une nouvelle fonctionnalité, un changement, une traduction, ou si vous avez trouvé un bug dans auto-py-to-exe.
+Jetez un coup d'œuil à [CONTRIBUTING.md](../../CONTRIBUTING.md) pour voir les lignes directrices pour contribuer à ce projet. Ce fichier détaile ce que vous devez faire si vous avez une nouvelle fonctionnalité, un changement, une traduction, ou si vous avez trouvé un bug dans auto-py-to-exe.
 
 ## Problèmes lors de l'utilisation de l'outil
 

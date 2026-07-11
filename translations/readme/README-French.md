@@ -136,7 +136,7 @@ Jetez un coup d'œuil à [CONTRIBUTING.md](../../CONTRIBUTING.md) pour voir les 
 
 Si vous avez un problème avec l'exécutable généré ou cet outil en général, je vous recommande de lire [mon post sur des problèmes communs lors de l'utilisation d'auto-py-to-exe](https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help). Ce post parle des choses à savoir lors de la transformation d'un script Python en exécutable et des solutions pour les problèmes communs.
 
-Si vous pensez avoir trouvé un bug dans cet outil, allez voir la [séction "Reporter un problème" dans CONTRIBUTING.md](../contributing/CONTRIBUTING-French.md#reporter-un-probleme).
+Si vous pensez avoir trouvé un bug dans cet outil, allez voir la [séction "Reporter un problème" dans CONTRIBUTING.md](../../CONTRIBUTING.md#reporting-an-issue).
 
 ## Support de Python 2.7
 
